@@ -33,7 +33,7 @@ git clone https://github.com/Top2000app/dos.git dos
 
 Have questions or suggestions? Reach out to us:
 
-Website: [www.top2000.app]
+Website: www.top2000.app
 <br/>
 Email: rick.neeft@outlook.com
 
